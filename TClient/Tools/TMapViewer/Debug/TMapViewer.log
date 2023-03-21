@@ -1,0 +1,58 @@
+﻿Der Buildvorgang wurde am 27.07.2012 22:11:26 gestartet.
+     1>Projekt "C:\Users\Kevin\Desktop\4 Story(3.8)TEST\TClient\Tools\TMapViewer\TMapViewer.vcxproj" auf Knoten "2", build Ziel(e).
+     1>PrepareForBuild:
+         Das Verzeichnis ".\Exec\" wird erstellt.
+       InitializeBuildStatus:
+         "Debug\TMapViewer.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\TProtocol /I..\..\TEngine\TachyonControl /I"..\..\TEngine\Engine Lib" /I..\..\TEngine\TComp /I..\..\TEngine\TCML /ZI /nologo /W1 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp TCMDHandler.cpp TMapViewer.cpp TMapViewerBSP.cpp TMapViewerCAM.cpp TMapViewerChar.cpp TMapViewerFlag.cpp TMapViewerGame.cpp TMapViewerGM.cpp TMapViewerInven.cpp TMapViewerItem.cpp TMapViewerKEY.cpp TMapViewerMAP.cpp TMapViewerMoveObj.cpp TMapViewerNpc.cpp TMapViewerObjBase.cpp TMapViewerObject.cpp TMapViewerSFX.cpp TMapViewerWnd.cpp TMinimapDlg.cpp TWorldmapDlg.cpp
+         TWorldmapDlg.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMinimapDlg.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerWnd.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerSFX.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerObject.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerObjBase.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerNpc.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerMoveObj.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerMAP.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerKEY.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerItem.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerInven.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerGM.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerGame.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerFlag.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerChar.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerCAM.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewerBSP.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TMapViewer.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         TCMDHandler.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         Code wird generiert...
+         Kompilieren...
+         stdafx.cpp
+     1>d:\program files (x86)\microsoft visual studio 10.0\vc\atlmfc\include\atlcore.h(35): fatal error C1189: #error :  This file requires _WIN32_WINNT to be #defined at least to 0x0403. Value 0x0501 or higher is recommended.
+         Code wird generiert...
+     1>Die Erstellung des Projekts "C:\Users\Kevin\Desktop\4 Story(3.8)TEST\TClient\Tools\TMapViewer\TMapViewer.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:24.16
